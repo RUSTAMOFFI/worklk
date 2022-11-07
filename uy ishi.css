@@ -1,0 +1,196 @@
+ *{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: Poppins,sans-serif;
+ }
+ header{
+   background-image: url(1.png);
+   width: 100%;
+   height: 834px;
+ }
+ .head{
+   display: flex;
+   margin-left: 115px;
+   padding-top: 71px;
+   text-decoration: none;
+ }
+ .logo{
+   display: flex;
+   width: 150px;
+ }
+ .img{
+   display: flex;
+   margin-top: 20px;
+   width: 42px;
+   height: 28px;
+}
+.salon{
+   display: flex;
+   padding-top: 5px;
+   color: white;
+   font-size: 25px;
+   font-family: Poppins,sans-serif;
+   font-weight: 700;
+}
+nav{
+   display: flex;
+   flex-direction: row;
+   margin-left: 200px;
+}
+ a{   
+   display: flex;
+   font-size: 22px;
+   color: white;
+   text-decoration: none;
+   font-family: Poppins,sans-serif;
+   margin-left: 190px;
+ }
+ a:nth-of-type(1){
+    color: orange;
+ }
+ .head
+ button{
+   font-size: 18px;
+   width: 182px;
+   height: 52px;
+   color: black;
+   background-color: orange;
+   font-weight: 800;
+   margin-top: -15px;
+   margin-left: 90px;
+ }
+ .main{
+   width: 553px;
+   height: 600px;
+   display: inline-flex;
+   flex-direction: row;
+   flex-direction: column;
+   margin: 241px 0px 0px 115px;
+} 
+.yozuv{
+   width: 553px;
+   height: 600px;
+}
+.well{
+   font-size: 14px;
+   color: orange;
+}
+.hell{
+   font-size: 48px;
+   font-weight: 700;
+   color: white;
+   margin-top: 15px;
+}
+.chop{
+   color: white;
+   /* margin-top: 20px; */
+   width: 370px;
+   font-weight: 400;
+   font-size: 21px;
+   height: 66px;
+}
+   .but button{
+   margin-top: 100px;
+   font-size: 18px;
+   width: 182px;
+   height: 52px;
+   color: black;
+   background-color:orange;
+   font-weight: 800;
+} 
+button:nth-of-type(2){
+   background-color: black;
+   border: 1px solid white;
+   color: white;
+   margin-left: 40px;
+}
+img:nth-child(3){
+   
+   margin-left: 1065px;
+   margin-top: -550px;
+}
+.orta{
+   display: flex;
+   flex-direction: row;
+   background-image: url(4.png);
+   width: 100%;
+   height: 800px;
+   margin-top: 150px;
+   display: flex;
+   flex-direction: row;  
+}
+.ortarasm {
+   /* display: flex;
+   flex-direction: row; */
+   margin-left: 223px;
+   width: 445px;
+   height: 450px;
+}
+.ortarasm img:nth-child(2){
+   width: 161px;
+   height: 118px;
+   margin-bottom: 165px;
+   margin-left: 20px;
+}
+.ortarasm img:nth-child(3){
+ 
+   border: 15px solid whitesmoke;
+   margin-left: -230px; 
+   margin-bottom: -170px; 
+   width: 214px;
+   height: 292px;
+}
+.chat{
+   margin-top: 70px;
+   margin-left: 169px;
+   width: 500px;
+   height: 400px;
+}
+.orta .hell{
+   color: black;
+   font-size: 55px;
+   font-weight: 700;
+   font-family: Poppins,sans-serif;
+
+}
+.orta .chop{
+   padding-top: 5px;
+
+   color: black;
+   width: 401px;
+   height: 57px;
+   font-size: 18px;
+}
+button:nth-child(4){
+   background-color: orange;
+   font-size: 18px;
+   width: 182px;
+   height: 52px;
+   font-weight: 800;
+   margin-top: 50px;
+   border: none;
+}
+.barber{
+   width:1800px;
+   height:676px;
+   background-image: url(8.png) ;
+   background-repeat: no-repeat;
+   border: 1px solid red;
+}
+.reg{
+   width: 100%;
+   height: 395px;
+   display: flex;
+   align-items: center;
+   border: 1px solid red;justify-content: center;     
+}
+img:nth-child(2){
+   background-image: url(4.png);
+   width: 573px;
+   height: 393px;
+}
+
+
+
+
